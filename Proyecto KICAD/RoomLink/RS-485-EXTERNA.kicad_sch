@@ -1005,15 +1005,15 @@
     (property "Datasheet" "" (at 105.156 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "9" (uuid bfef9d4c-0071-47e0-9900-9828a7a82549))
-    (pin "8" (uuid e682f0bd-bfd2-414b-b48e-d9c4e281f69c))
-    (pin "4" (uuid 427e26b0-41b7-4e1b-b0c1-aecd22b6acc9))
     (pin "1" (uuid 5603dcb5-1128-43ce-8e68-730720de4bdc))
     (pin "10" (uuid 8ba50296-1e07-40b4-8205-9aec1e3afceb))
-    (pin "3" (uuid 7557b7db-e6a8-4a50-be7b-98a53c9db2aa))
     (pin "2" (uuid c48d8361-c1bb-4861-a732-a9ed02eddeaa))
+    (pin "3" (uuid 7557b7db-e6a8-4a50-be7b-98a53c9db2aa))
+    (pin "4" (uuid 427e26b0-41b7-4e1b-b0c1-aecd22b6acc9))
     (pin "5" (uuid e52c2106-9c34-4ee2-a3e7-5ebb0df2b0c4))
     (pin "7" (uuid 3f4da845-3472-4903-8eea-16de0dda878c))
+    (pin "8" (uuid e682f0bd-bfd2-414b-b48e-d9c4e281f69c))
+    (pin "9" (uuid bfef9d4c-0071-47e0-9900-9828a7a82549))
     (instances
       (project "RoomLink"
         (path "/9c710720-cfe2-4b3b-9fda-84c630167e07/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f"
