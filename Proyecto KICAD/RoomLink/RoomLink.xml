@@ -1,0 +1,2465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Roberto Angel Lora\Desktop\Diseño Mecatronico\Proyecto KICAD\RoomLink\RoomLink.kicad_sch</source>
+    <date>8/11/2023 7:31:40 PM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RoomLink.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Smart-Control-HVAC/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RS-485-EXTERNA.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>INPUTS.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CONTROL.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RELAY_GROUP.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RS-485-LCD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>POWER_SUPPLY.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>TBP04R12-500-02BE</value>
+      <footprint>CUI_TBP04R12-500-02BE</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-02BE" part="TBP04R12-500-02BE" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ede3ce17-6989-4261-95a0-817596b01171</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>TBP04R12-500-02BE</value>
+      <footprint>CUI_TBP04R12-500-02BE</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-02BE" part="TBP04R12-500-02BE" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>120b35e7-134b-4ee5-bfa9-fd2d3ce627db</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>TBP04R12-500-02BE</value>
+      <footprint>CUI_TBP04R12-500-02BE</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-02BE" part="TBP04R12-500-02BE" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de0b1bdc-6c93-41f1-a589-ada72700acb7</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>TBP04R12-500-03GR</value>
+      <footprint>CUI_TBP04R12-500-03GR</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-03GR" part="TBP04R12-500-03GR" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a0ce664-0df2-42fc-a04f-fed469c6c34b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>TBP04R12-500-08GR</value>
+      <footprint>CUI_TBP04R12-500-08GR</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-08GR" part="TBP04R12-500-08GR" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8ab42db-47ee-47da-9407-29f534acf671</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>TBP04R12-500-08GR</value>
+      <footprint>CUI_TBP04R12-500-08GR</footprint>
+      <fields>
+        <field name="MANUFACTURER">CUI Devices</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TBP04R12-500-08GR" part="TBP04R12-500-08GR" description=""/>
+      <property name="PARTREV" value="1.0"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="8.50mm"/>
+      <property name="MANUFACTURER" value="CUI Devices"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoomLink.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4852c9a3-4f54-42e0-b067-34644705d33d</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>SMBJ12CA</value>
+      <footprint>SMBJ12CA:DIOM4336X265N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65 mm</field>
+        <field name="PARTREV">I2102</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="SMBJ12CA" part="SMBJ12CA" description=""/>
+      <property name="PARTREV" value="I2102"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65 mm"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>41853dc1-3014-46a1-b52b-cdb53930ee9f</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>SM712-02HTG</value>
+      <footprint>SM712-02HTG:SM71202HTG</footprint>
+      <datasheet>https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=a4019802-ff62-41ff-bf66-295f97422f81&amp;filename=littelfuse-tvs-diode-array-sm712-datasheet</datasheet>
+      <fields>
+        <field name="Description">31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3</field>
+        <field name="Height">1.12</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">SM712-02HTG</field>
+        <field name="Mouser Part Number">576-SM712-02HTG</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D</field>
+      </fields>
+      <libsource lib="SM712-02HTG" part="SM712-02HTG" description="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <property name="Description" value="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <property name="Height" value="1.12"/>
+      <property name="Mouser Part Number" value="576-SM712-02HTG"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D"/>
+      <property name="Manufacturer_Name" value="LITTELFUSE"/>
+      <property name="Manufacturer_Part_Number" value="SM712-02HTG"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>367a3066-3aee-409f-9fa0-2fc475f4418d</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>6c114adc-c0ed-4f5b-b7ad-b76e4bbed0e3</tstamps>
+    </comp>
+    <comp ref="F4">
+      <value>PTS120660V010</value>
+      <footprint>Huellas:RESC3115X65N</footprint>
+      <libsource lib="New_Library" part="PTS120660V010" description="PTS120660V010"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="PTS120660V010"/>
+      <property name="ki_keywords" value="PTS120660V010"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>f14ff6e8-505a-46fa-852a-f0a1642445f0</tstamps>
+    </comp>
+    <comp ref="F5">
+      <value>PTS120660V010</value>
+      <footprint>Huellas:RESC3115X65N</footprint>
+      <libsource lib="New_Library" part="PTS120660V010" description="PTS120660V010"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="PTS120660V010"/>
+      <property name="ki_keywords" value="PTS120660V010"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>15880213-c3b5-4e06-94d4-e3db6d87bcb9</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>1dbbd476-80a4-48c8-9a53-c42d32d7161b</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>85a873c3-4aa5-4037-b85d-5543e98edf2c</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>738808ea-6fd9-4dc0-9702-20b3573e235a</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>89276286-debe-4f98-a030-1539323c1c75</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>2.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>f44c7605-d8ab-401c-bcee-cc1319643b41</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TD521D485H-E</value>
+      <footprint>Huellas:TD521D485H-E</footprint>
+      <libsource lib="New_Library" part="TD521D485H-E" description="TD521D485H-E"/>
+      <property name="Sheetname" value="RS-485-EXTERNA"/>
+      <property name="Sheetfile" value="RS-485-EXTERNA.kicad_sch"/>
+      <property name="ki_description" value="TD521D485H-E"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485-EXTERNA/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3dae97d6-a24d-4907-be39-d909c38c833f/"/>
+      <tstamps>b965bd5f-7ecb-4050-b242-7b40bbcf2643</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>fce9d5e7-7517-48c7-aa25-77330dc54e65</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>b341667e-0e26-47f0-94e7-bbbb00c2db33</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>5c948e68-0d82-4b6f-ac4e-7b336b562768</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>798658aa-59ed-4f5c-a433-806ba79bb874</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>13197b99-030c-4d9d-8cc9-42e02fc63b5c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>b44c423b-a9d0-48e2-b4bc-95e5c48c9a10</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>718dd75a-519f-4ea4-9dc6-f0dad8e902f1</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>e5309e84-7bc4-4be1-b424-882c00bd91f2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>9482ab65-42c6-46fc-8669-1169d0618980</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>a052c9cd-0651-4354-b7f0-10c28849a9bb</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>236280cd-a8d6-4e68-a009-47938d57137b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>b6fbf3a7-6895-4866-85b6-0d5627113191</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>bb876f9e-23e8-4481-8091-12d51ce4bc23</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>89b5e9d1-9418-403c-94bb-9b1827ac69af</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>92ffaacc-4b33-4e91-a347-854122f1104a</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>5e4ec903-ef26-4266-b6d5-062ab307502a</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>042ec1b9-491d-4826-88bc-ad64d57d3777</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>6506494d-62e6-485c-805b-73e4cf278fc8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>fde5cbbd-ab20-48d0-b1a2-06e0f0f35e25</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>fd33fec9-9148-40d6-bfd9-1209cda130e0</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>bc5419be-180f-4eb8-94f4-21b5e59a0d54</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>e322c01d-f08e-41d6-8c0e-05a83b00f0c6</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>25fa566c-25bb-4f53-aadd-14d09aee2c94</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>7f1eb3f5-c5c4-46bb-8505-c1552beb9d88</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>FODM214</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</datasheet>
+      <libsource lib="Isolator" part="FODM214" description="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="ki_keywords" value="AC DC Phototransistor Optocoupler"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>60614013-b38d-415e-83a7-6c0aadacd7fa</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>FODM214</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</datasheet>
+      <libsource lib="Isolator" part="FODM214" description="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="ki_keywords" value="AC DC Phototransistor Optocoupler"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>0cc53fc8-e3a1-4bf5-8283-0f0756578c16</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>FODM214</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</datasheet>
+      <libsource lib="Isolator" part="FODM214" description="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="ki_keywords" value="AC DC Phototransistor Optocoupler"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>13123b06-e0bd-4b6f-ade8-e5f2d2308813</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>FODM214</value>
+      <footprint>Package_SO:SOP-4_4.4x2.6mm_P1.27mm</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</datasheet>
+      <libsource lib="Isolator" part="FODM214" description="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="Sheetname" value="INPUTS"/>
+      <property name="Sheetfile" value="INPUTS.kicad_sch"/>
+      <property name="ki_description" value="AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4"/>
+      <property name="ki_keywords" value="AC DC Phototransistor Optocoupler"/>
+      <sheetpath names="/Smart-Control-HVAC/INPUTS/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/cb7ac847-4d83-4ca2-b563-b5b1ae26f2bf/"/>
+      <tstamps>a01831d7-cfe4-47c1-8408-e459ebfd35d3</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>1f463d75-1c67-44f4-8377-e4b3d5842484</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>50c73f94-fdbd-4002-bcce-2c3887365813</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>5fcbcfde-45da-4309-9bb3-9496a5d612eb</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>46f833aa-11e3-428b-9815-81fa7fb962c7</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>~</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <libsource lib="New_Library" part="HEADER6-POL" description=""/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>416b3803-27c9-45b7-9ba5-4b57a601eeeb</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>eeca4464-b44e-48b5-a04d-ae7afbfbee3e</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>aef0ddd1-be54-475e-9aa8-843780ddfdf1</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>2fddba3f-1459-4bcd-b940-f950e7358a74</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>470</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>89dd1eab-58fe-4942-b901-213362f9e13e</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>33a79e95-50a7-444c-98f7-9abdfc77d8ad</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>da1e4c60-9975-46d9-93fb-4e1a7078805a</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>df8b31ea-3a77-485c-9182-8ad914a5ffa7</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>a0cdfe8f-0ca0-449d-8a3b-f08eb405da89</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>~</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="New_Library" part="ESP32-JTAG" description=""/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>859b50b0-d716-4b4a-beef-5f68902db667</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>ESP32-WROOM-32</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</datasheet>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32" description="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="Sheetname" value="CONTROL"/>
+      <property name="Sheetfile" value="CONTROL.kicad_sch"/>
+      <property name="ki_description" value="RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="ki_keywords" value="RF Radio BT ESP ESP32 Espressif onboard PCB antenna"/>
+      <sheetpath names="/Smart-Control-HVAC/CONTROL/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/359aae99-fd8f-49b7-8ef2-b58e13a8ac2e/"/>
+      <tstamps>73c911d9-2a76-48d8-b3b7-fcea5e46fccb</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>d199e877-c313-4462-9360-37c1892d9618</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>e0b9f288-5a40-4cc9-99c8-55d3f878aaf7</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>8b140d6b-bcbc-4749-936f-09eec6efc484</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>fdacba7a-07d9-4771-af2a-d11ddc58a1f3</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>2f7a411b-5d1f-42aa-8181-768cf8a4af6f</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>~</value>
+      <footprint>Huellas:AZ921</footprint>
+      <libsource lib="New_Library" part="AZ921" description="AZ921"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="AZ921"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>588eb201-2d19-4ece-8e67-805f56ffefbe</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>~</value>
+      <footprint>Huellas:AZ921</footprint>
+      <libsource lib="New_Library" part="AZ921" description="AZ921"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="AZ921"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>8a6239ba-7c44-4409-a69a-3308ee71d134</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>~</value>
+      <footprint>Huellas:AZ921</footprint>
+      <libsource lib="New_Library" part="AZ921" description="AZ921"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="AZ921"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>0d92e7e7-8b6a-4eb8-95e8-fd373cc804d5</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>~</value>
+      <footprint>Huellas:AZ921</footprint>
+      <libsource lib="New_Library" part="AZ921" description="AZ921"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="AZ921"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>7ff575d1-7539-4a02-a98e-ae63836123a9</tstamps>
+    </comp>
+    <comp ref="K5">
+      <value>~</value>
+      <footprint>Huellas:AZ921</footprint>
+      <libsource lib="New_Library" part="AZ921" description="AZ921"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="AZ921"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>98d427f1-d4a0-42c8-a674-e354b6000a96</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>e8407c8f-7f55-4658-8dea-4dacc6d5a92c</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>cb8be1d8-e422-4bcf-b89a-1a9a70596250</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>9abfeeaa-f2a7-418f-993b-f09558be2a36</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>f1153981-61b4-49e5-bed9-13120c0d1bd3</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>2d647b0c-fc7d-44b1-bd3f-dfc967143fd2</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>ULN2003A</value>
+      <footprint>Package_SO:SOIC-16_3.9x9.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</datasheet>
+      <libsource lib="Transistor_Array" part="ULN2003A" description="High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"/>
+      <property name="Sheetname" value="RELAY_GROUP"/>
+      <property name="Sheetfile" value="RELAY_GROUP.kicad_sch"/>
+      <property name="ki_description" value="High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"/>
+      <property name="ki_keywords" value="darlington transistor array"/>
+      <sheetpath names="/Smart-Control-HVAC/RELAY_GROUP/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/c80746ae-4e92-470d-837e-0d73f0bdb260/"/>
+      <tstamps>7ea37fe7-418a-4663-a985-7f15266bdb94</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>89417bad-772e-4b24-9898-861f839e87a7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF/50V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>dbb9a348-dbbf-489a-befd-daf117310019</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>SMBJ12CA</value>
+      <footprint>SMBJ12CA:DIOM4336X265N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65 mm</field>
+        <field name="PARTREV">I2102</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="SMBJ12CA" part="SMBJ12CA" description=""/>
+      <property name="PARTREV" value="I2102"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.65 mm"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>91d5fd59-17e5-40b1-b532-ae5f45c358bc</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>SM712-02HTG</value>
+      <footprint>SM712-02HTG:SM71202HTG</footprint>
+      <datasheet>https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=a4019802-ff62-41ff-bf66-295f97422f81&amp;filename=littelfuse-tvs-diode-array-sm712-datasheet</datasheet>
+      <fields>
+        <field name="Description">31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3</field>
+        <field name="Height">1.12</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">SM712-02HTG</field>
+        <field name="Mouser Part Number">576-SM712-02HTG</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D</field>
+      </fields>
+      <libsource lib="SM712-02HTG" part="SM712-02HTG" description="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <property name="Description" value="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <property name="Height" value="1.12"/>
+      <property name="Mouser Part Number" value="576-SM712-02HTG"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D"/>
+      <property name="Manufacturer_Name" value="LITTELFUSE"/>
+      <property name="Manufacturer_Part_Number" value="SM712-02HTG"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>c8af51cd-2d3f-4111-928b-fa660de16f1e</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10/1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>d57eae8b-1e61-4e70-aa15-8c78e8105625</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10/1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>f966d7ca-47b1-470f-b862-e7a7b36b36f3</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10/1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>3356e088-ba1e-4a79-8dd4-6b760c88894d</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>SP485ECN-L</value>
+      <footprint>SOIC127P600X175-8N</footprint>
+      <fields>
+        <field name="MPN">SP485ECN-L</field>
+        <field name="OC_FARNELL">1831933</field>
+        <field name="OC_NEWARK">24R0570</field>
+        <field name="PACKAGE">SOIC-8</field>
+        <field name="SUPPLIER">Sipex Corporation</field>
+      </fields>
+      <libsource lib="SP485ECN-L" part="SP485ECN-L" description=""/>
+      <property name="SUPPLIER" value="Sipex Corporation"/>
+      <property name="OC_FARNELL" value="1831933"/>
+      <property name="OC_NEWARK" value="24R0570"/>
+      <property name="MPN" value="SP485ECN-L"/>
+      <property name="PACKAGE" value="SOIC-8"/>
+      <property name="Sheetname" value="RS-485_LCD"/>
+      <property name="Sheetfile" value="RS-485-LCD.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/RS-485_LCD/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/3bf76bdf-4364-44b3-bde1-95fd668b856b/"/>
+      <tstamps>ac56197a-978e-4b7a-9908-574bc5174742</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.33uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>75196781-68eb-4a73-b7a1-fe99e315c96a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2.2uF/25V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>59bcd92f-42eb-4a05-95df-d1caf44fca5a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>47uF/10V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>5a9a5316-c04c-455c-b818-6807d5ae846c</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1SMA5918BT3G</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.20mm</field>
+        <field name="PARTREV">10</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="" part="1SMA5918BT3G_1" description=""/>
+      <property name="PARTREV" value="10"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.20mm"/>
+      <property name="MANUFACTURER" value="ON Semiconductor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>1bac27d3-2202-4476-b7d1-4860c05b6176</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1SMA5918BT3G</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <fields>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.20mm</field>
+        <field name="PARTREV">10</field>
+        <field name="STANDARD">IPC-7351B</field>
+      </fields>
+      <libsource lib="1SMA5918BT3G" part="1SMA5918BT3G" description=""/>
+      <property name="PARTREV" value="10"/>
+      <property name="STANDARD" value="IPC-7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.20mm"/>
+      <property name="MANUFACTURER" value="ON Semiconductor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>021ceefb-1ef6-4a5b-a51b-ffcbcb52b634</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>b718b692-2c49-4045-b686-7bc443e64670</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>a8593419-c151-4431-bd5e-ec81cd5d7f5d</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>c4ee169a-2e2b-4c53-9efb-a2b65e6b09f2</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>PTS120660V010</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <libsource lib="New_Library" part="PTS120660V010" description=""/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>71c3fda5-15c1-4647-a1a5-5b051d73b672</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>PTS120660V010</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <libsource lib="New_Library" part="PTS120660V010" description=""/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>5f34e438-f4c6-4ad8-bea4-0095533db2e5</tstamps>
+    </comp>
+    <comp ref="F3">
+      <value>Fuse</value>
+      <footprint>Fuse:Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Fuse"/>
+      <property name="ki_keywords" value="fuse"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>be5c6ba1-804e-4b90-85be-0ee4bf68501c</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>HLK-PM12</value>
+      <footprint>Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</footprint>
+      <datasheet>http://www.hlktech.net/product_detail.php?ProId=56</datasheet>
+      <libsource lib="Converter_ACDC" part="HLK-PM12" description="Compact AC/DC board mount power module 3W 12V"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Compact AC/DC board mount power module 3W 12V"/>
+      <property name="ki_keywords" value="AC/DC module power supply"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>8432d46c-4d22-480a-9975-cd4c5fe6637f</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>fe5b2db5-4ea3-4247-9657-df5460eb10c9</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>1259f437-16bf-43fe-b424-c76add2d9270</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>470</value>
+      <footprint>Diode_SMD:D_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>e3dff0ad-d504-4c17-b35a-51280af86ffc</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>25820bfd-f74b-4c5b-bac7-b2d3f51fe156</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>ccc3f27d-bb49-4226-918d-957fd6a9cb81</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>f8c4c8ed-319c-4bdc-aee2-ec51f96225b9</tstamps>
+    </comp>
+    <comp ref="TVS1">
+      <value>~</value>
+      <footprint>Varistor:RV_Disc_D21.5mm_W7.5mm_P10mm</footprint>
+      <libsource lib="New_Library" part="P10V275" description=""/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>3352dab5-b82e-4887-8fe4-b2a5dcf6037e</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>NJM2885DL1-33-TE1</value>
+      <footprint>3.3:DPAK228P968X238-4N</footprint>
+      <libsource lib="New_Library" part="NJM2885DL1-33-TE1" description=""/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>cbcd0a74-f5af-41dc-bfff-d1d9a57a6a83</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>B0303S</value>
+      <footprint>Huellas:B0505S-W2R2</footprint>
+      <libsource lib="New_Library" part="B0505S-W2R2" description=""/>
+      <property name="Sheetname" value="POWER_SUPPLY"/>
+      <property name="Sheetfile" value="POWER_SUPPLY.kicad_sch"/>
+      <sheetpath names="/Smart-Control-HVAC/POWER_SUPPLY/" tstamps="/9005e841-4001-4ea2-9c18-829c9beaf08c/a0f00777-98bd-45cc-8150-a7986ecacdf0/"/>
+      <tstamps>8dc8ff31-c936-45c3-8187-9e8204302385</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="1SMA5918BT3G_1">
+      <fields>
+        <field name="Reference">D5</field>
+        <field name="Value">1SMA5918BT3G</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="PARTREV">10</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.20mm</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="1SMA5918BT3G" part="1SMA5918BT3G">
+      <fields>
+        <field name="Reference">D6</field>
+        <field name="Value">1SMA5918BT3G</field>
+        <field name="Footprint">Diode_SMD:D_0805_2012Metric</field>
+        <field name="PARTREV">10</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.20mm</field>
+        <field name="MANUFACTURER">ON Semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_ACDC" part="HLK-PM12">
+      <description>Compact AC/DC board mount power module 3W 12V</description>
+      <docs>http://www.hlktech.net/product_detail.php?ProId=56</docs>
+      <footprints>
+        <fp>Converter*ACDC*HiLink*HLK?PM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">HLK-PM12</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx</field>
+        <field name="Datasheet">http://www.hlktech.net/product_detail.php?ProId=56</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC/L" type="power_in"/>
+        <pin num="2" name="AC/N" type="power_in"/>
+        <pin num="3" name="-Vout" type="power_out"/>
+        <pin num="4" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="FODM214">
+      <description>AC/DC Optocoupler, Vce 80V, CTR 20-400%, SOP-4</description>
+      <docs>https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</docs>
+      <footprints>
+        <fp>SOP*4.4x2.6mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FODM214</field>
+        <field name="Footprint">Package_SO:SOP-4_4.4x2.6mm_P1.27mm</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/FODM214-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="AZ921">
+      <description>AZ921</description>
+      <fields>
+        <field name="Reference">K1</field>
+        <field name="Value">~</field>
+        <field name="Footprint">Huellas:AZ921</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="B0505S-W2R2">
+      <fields>
+        <field name="Reference">U11</field>
+        <field name="Value">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN-" type="input"/>
+        <pin num="2" name="IN+" type="input"/>
+        <pin num="3" name="OUT-" type="output"/>
+        <pin num="4" name="OUT+" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="ESP32-JTAG">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="input"/>
+        <pin num="2" name="MTMS" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="MTCLK" type="input"/>
+        <pin num="5" name="" type="no_connect"/>
+        <pin num="6" name="MTD0" type="input"/>
+        <pin num="7" name="" type="no_connect"/>
+        <pin num="8" name="MTD1" type="input"/>
+        <pin num="9" name="GND" type="input"/>
+        <pin num="10" name="EN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="HEADER6-POL">
+      <fields>
+        <field name="Reference">J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="NJM2885DL1-33-TE1">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="P10V275">
+      <fields>
+        <field name="Reference">TVS1</field>
+        <field name="Value">~</field>
+        <field name="Footprint">Varistor:RV_Disc_D21.5mm_W7.5mm_P10mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="PTS120660V010">
+      <description>PTS120660V010</description>
+      <fields>
+        <field name="Reference">F4</field>
+        <field name="Value">PTS120660V010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="New_Library" part="TD521D485H-E">
+      <description>TD521D485H-E</description>
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">TD521D485H-E</field>
+        <field name="Footprint">Huellas:TD521D485H-E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="TXD" type="passive"/>
+        <pin num="4" name="RXD" type="passive"/>
+        <pin num="5" name="CON" type="passive"/>
+        <pin num="7" name="Vo" type="passive"/>
+        <pin num="8" name="B" type="passive"/>
+        <pin num="9" name="A" type="passive"/>
+        <pin num="10" name="RGND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32">
+      <description>RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SM712-02HTG" part="SM712-02HTG">
+      <description>31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3</description>
+      <docs>https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=a4019802-ff62-41ff-bf66-295f97422f81&amp;filename=littelfuse-tvs-diode-array-sm712-datasheet</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SM712-02HTG</field>
+        <field name="Footprint">SM71202HTG</field>
+        <field name="Datasheet">https://www.littelfuse.com/media?resourcetype=datasheets&amp;itemid=a4019802-ff62-41ff-bf66-295f97422f81&amp;filename=littelfuse-tvs-diode-array-sm712-datasheet</field>
+        <field name="Description">31V, 19V Clamp 19A (8/20s) Ipp Tvs Diode Surface Mount SOT-23-3</field>
+        <field name="Height">1.12</field>
+        <field name="Mouser Part Number">576-SM712-02HTG</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Littelfuse/SM712-02HTG?qs=aGgfWYEhH7lQgBVBPCUDkw%3D%3D</field>
+        <field name="Manufacturer_Name">LITTELFUSE</field>
+        <field name="Manufacturer_Part_Number">SM712-02HTG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMBJ12CA" part="SMBJ12CA">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMBJ12CA</field>
+        <field name="Footprint">DIOM4336X265N</field>
+        <field name="PARTREV">I2102</field>
+        <field name="STANDARD">IPC-7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.65 mm</field>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SP485ECN-L" part="SP485ECN-L">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SP485ECN-L</field>
+        <field name="Footprint">SOIC127P600X175-8N</field>
+        <field name="SUPPLIER">Sipex Corporation</field>
+        <field name="OC_FARNELL">1831933</field>
+        <field name="OC_NEWARK">24R0570</field>
+        <field name="MPN">SP485ECN-L</field>
+        <field name="PACKAGE">SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RO" type="output"/>
+        <pin num="2" name="~RE" type="input"/>
+        <pin num="3" name="DE" type="input"/>
+        <pin num="4" name="DI" type="input"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="A" type="output"/>
+        <pin num="7" name="B" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TBP04R12-500-02BE" part="TBP04R12-500-02BE">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TBP04R12-500-02BE</field>
+        <field name="Footprint">CUI_TBP04R12-500-02BE</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="MANUFACTURER">CUI Devices</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TBP04R12-500-03GR" part="TBP04R12-500-03GR">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TBP04R12-500-03GR</field>
+        <field name="Footprint">CUI_TBP04R12-500-03GR</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="MANUFACTURER">CUI Devices</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TBP04R12-500-08GR" part="TBP04R12-500-08GR">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TBP04R12-500-08GR</field>
+        <field name="Footprint">CUI_TBP04R12-500-08GR</field>
+        <field name="PARTREV">1.0</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">8.50mm</field>
+        <field name="MANUFACTURER">CUI Devices</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_Array" part="ULN2003A">
+      <description>High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SSOP*4.4x5.2mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*W*5.3x10.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ULN2003A</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/uln2003a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="COM" type="passive"/>
+        <pin num="10" name="O7" type="open_collector"/>
+        <pin num="11" name="O6" type="open_collector"/>
+        <pin num="12" name="O5" type="open_collector"/>
+        <pin num="13" name="O4" type="open_collector"/>
+        <pin num="14" name="O3" type="open_collector"/>
+        <pin num="15" name="O2" type="open_collector"/>
+        <pin num="16" name="O1" type="open_collector"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="1SMA5918BT3G">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/1SMA5918BT3G/1SMA5918BT3G.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Converter_ACDC">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Converter_ACDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Isolator.kicad_sym</uri>
+    </library>
+    <library logical="New_Library">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/New_Library.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="SM712-02HTG">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/LIB_SM712-02HTG/SM712-02HTG/SM712-02HTG/SM712-02HTG.lib</uri>
+    </library>
+    <library logical="SMBJ12CA">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/SMBJ12CA/SMBJ12CA.kicad_sym</uri>
+    </library>
+    <library logical="SP485ECN-L">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/SP485ECN-L/SP485ECN-L.kicad_sym</uri>
+    </library>
+    <library logical="TBP04R12-500-02BE">
+      <uri>C:/Users/Roberto Angel Lora/Downloads/TBP04R12-500-02BE/TBP04R12-500-02BE.lib</uri>
+    </library>
+    <library logical="TBP04R12-500-03GR">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/TBP04R12-500-03GR/TBP04R12-500-03GR.lib</uri>
+    </library>
+    <library logical="TBP04R12-500-08GR">
+      <uri>C:/Users/Roberto Angel Lora/Desktop/Foodprints/TBP04R12-500-08GR/TBP04R12-500-08GR.lib</uri>
+    </library>
+    <library logical="Transistor_Array">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_Array.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="D6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="OUT+" pintype="output"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="K2" pin="1" pintype="passive"/>
+      <node ref="K3" pin="1" pintype="passive"/>
+      <node ref="K4" pin="1" pintype="passive"/>
+      <node ref="K5" pin="1" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="+Vout" pintype="power_out"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Smart-Control-HVAC/CON-A-">
+      <node ref="F4" pin="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/Smart-Control-HVAC/CON-B+">
+      <node ref="F5" pin="2" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="5" name="/Smart-Control-HVAC/CON-DC+">
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/Smart-Control-HVAC/CON-DC-">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/Smart-Control-HVAC/CON-FAN-C">
+      <node ref="J6" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="K3" pin="3" pintype="passive"/>
+      <node ref="K4" pin="3" pintype="passive"/>
+      <node ref="K5" pin="3" pintype="passive"/>
+    </net>
+    <net code="8" name="/Smart-Control-HVAC/CON-FAN1">
+      <node ref="J6" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="K3" pin="4" pintype="passive"/>
+    </net>
+    <net code="9" name="/Smart-Control-HVAC/CON-FAN2">
+      <node ref="J6" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="K4" pin="4" pintype="passive"/>
+    </net>
+    <net code="10" name="/Smart-Control-HVAC/CON-FAN3">
+      <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="K5" pin="4" pintype="passive"/>
+    </net>
+    <net code="11" name="/Smart-Control-HVAC/CON-IN1+">
+      <node ref="J5" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U1" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/Smart-Control-HVAC/CON-IN1-">
+      <node ref="J5" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="/Smart-Control-HVAC/CON-IN2+">
+      <node ref="J5" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="/Smart-Control-HVAC/CON-IN2-">
+      <node ref="J5" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/Smart-Control-HVAC/CON-IN3+">
+      <node ref="J5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="/Smart-Control-HVAC/CON-IN3-">
+      <node ref="J5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/Smart-Control-HVAC/CON-IN4+">
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U4" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="/Smart-Control-HVAC/CON-IN4-">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/Smart-Control-HVAC/CON-L1">
+      <node ref="F3" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="/Smart-Control-HVAC/CON-LCDA-">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="/Smart-Control-HVAC/CON-LCDB+">
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="/Smart-Control-HVAC/CON-NEUT">
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="AC/L" pintype="power_in"/>
+      <node ref="TVS1" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/Smart-Control-HVAC/CON-OUT1A">
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="K1" pin="4" pintype="passive"/>
+    </net>
+    <net code="24" name="/Smart-Control-HVAC/CON-OUT1B">
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="K1" pin="3" pintype="passive"/>
+    </net>
+    <net code="25" name="/Smart-Control-HVAC/CON-OUT2A">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K2" pin="4" pintype="passive"/>
+    </net>
+    <net code="26" name="/Smart-Control-HVAC/CON-OUT2B">
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K2" pin="3" pintype="passive"/>
+    </net>
+    <net code="27" name="/Smart-Control-HVAC/CONTROL/COM_RS485_LCD">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="IO34" pintype="input"/>
+    </net>
+    <net code="28" name="/Smart-Control-HVAC/CONTROL/CON_RS485_eXT">
+      <node ref="U10" pin="7" pinfunction="IO35" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="CON" pintype="passive"/>
+    </net>
+    <net code="29" name="/Smart-Control-HVAC/CONTROL/INPUT_1_MICRO">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pintype="passive"/>
+      <node ref="U10" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/Smart-Control-HVAC/CONTROL/INPUT_2_MICRO">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U10" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pintype="passive"/>
+    </net>
+    <net code="31" name="/Smart-Control-HVAC/CONTROL/INPUT_3_MICRO">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U10" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="32" name="/Smart-Control-HVAC/CONTROL/INPUT_4_MICRO">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U10" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pintype="passive"/>
+    </net>
+    <net code="33" name="/Smart-Control-HVAC/CONTROL/RLY_FAN1_MICRO">
+      <node ref="U10" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+      <node ref="U9" pin="5" pinfunction="I5" pintype="input"/>
+    </net>
+    <net code="34" name="/Smart-Control-HVAC/CONTROL/RLY_FAN2_MICRO">
+      <node ref="U10" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+      <node ref="U9" pin="4" pinfunction="I4" pintype="input"/>
+    </net>
+    <net code="35" name="/Smart-Control-HVAC/CONTROL/RLY_FAN3_MICRO">
+      <node ref="U10" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+      <node ref="U9" pin="3" pinfunction="I3" pintype="input"/>
+    </net>
+    <net code="36" name="/Smart-Control-HVAC/CONTROL/RLY_OUT1_MICRO">
+      <node ref="U10" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+      <node ref="U9" pin="1" pinfunction="I1" pintype="input"/>
+    </net>
+    <net code="37" name="/Smart-Control-HVAC/CONTROL/RLY_OUT2_MICRO">
+      <node ref="U10" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+      <node ref="U9" pin="2" pinfunction="I2" pintype="input"/>
+    </net>
+    <net code="38" name="/Smart-Control-HVAC/CONTROL/Rx_RS485_eXT">
+      <node ref="U10" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="RXD" pintype="passive"/>
+    </net>
+    <net code="39" name="/Smart-Control-HVAC/CONTROL/Rx_RS485_lcd">
+      <node ref="U10" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="40" name="/Smart-Control-HVAC/CONTROL/Tx_RS485_LCD">
+      <node ref="U10" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+      <node ref="U7" pin="1" pinfunction="RO" pintype="output"/>
+    </net>
+    <net code="41" name="/Smart-Control-HVAC/CONTROL/Tx_RS485_eXT">
+      <node ref="U10" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+      <node ref="U8" pin="3" pinfunction="TXD" pintype="passive"/>
+    </net>
+    <net code="42" name="/Smart-Control-HVAC/RGND">
+      <node ref="D19" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U8" pin="10" pinfunction="RGND" pintype="passive"/>
+    </net>
+    <net code="43" name="EN">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U6" pin="10" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="44" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J7" pin="5" pintype="passive"/>
+      <node ref="PS1" pin="3" pinfunction="-Vout" pintype="power_out"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U10" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U10" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="IN-" pintype="input"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+      <node ref="U3" pin="3" pintype="passive"/>
+      <node ref="U4" pin="3" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="U6" pin="9" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="45" name="GNDA">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="OUT-" pintype="output"/>
+    </net>
+    <net code="46" name="MTCLK">
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="U10" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+      <node ref="U6" pin="4" pinfunction="MTCLK" pintype="input"/>
+    </net>
+    <net code="47" name="MTD0">
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="U10" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+      <node ref="U6" pin="6" pinfunction="MTD0" pintype="input"/>
+    </net>
+    <net code="48" name="MTD1">
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="U10" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+      <node ref="U6" pin="8" pinfunction="MTD1" pintype="input"/>
+    </net>
+    <net code="49" name="MTMS">
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="U10" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="MTMS" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D11-K)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="2" pintype="passive"/>
+      <node ref="U9" pin="16" pinfunction="O1" pintype="open_collector"/>
+    </net>
+    <net code="59" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D12-K)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K2" pin="2" pintype="passive"/>
+      <node ref="U9" pin="15" pinfunction="O2" pintype="open_collector"/>
+    </net>
+    <net code="61" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D13-K)">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K3" pin="2" pintype="passive"/>
+      <node ref="U9" pin="14" pinfunction="O3" pintype="open_collector"/>
+    </net>
+    <net code="63" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D14-K)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K4" pin="2" pintype="passive"/>
+      <node ref="U9" pin="13" pinfunction="O4" pintype="open_collector"/>
+    </net>
+    <net code="65" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D15-K)">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K5" pin="2" pintype="passive"/>
+      <node ref="U9" pin="12" pinfunction="O5" pintype="open_collector"/>
+    </net>
+    <net code="67" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D21-K)">
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U10" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="Net-(F4-Pad1)">
+      <node ref="F4" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(F5-Pad1)">
+      <node ref="F5" pin="1" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(PS1-AC{slash}N)">
+      <node ref="F3" pin="2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="AC/N" pintype="power_in"/>
+      <node ref="TVS1" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(U6-Vin)">
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="Vin" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(U7-A)">
+      <node ref="D16" pin="1" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="A" pintype="output"/>
+    </net>
+    <net code="79" name="Net-(U7-B)">
+      <node ref="D16" pin="2" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="B" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(U7-DE)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="~RE" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="DE" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(U8-A)">
+      <node ref="D18" pin="2" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(U8-B)">
+      <node ref="D18" pin="1" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U8" pin="8" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(U8-Vo)">
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="Vo" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(U10-IO18)">
+      <node ref="J7" pin="2" pintype="passive"/>
+      <node ref="U10" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Net-(U10-IO19)">
+      <node ref="J7" pin="4" pintype="passive"/>
+      <node ref="U10" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(U10-IO21)">
+      <node ref="J7" pin="6" pintype="passive"/>
+      <node ref="U10" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(U10-IO32)">
+      <node ref="J7" pin="3" pintype="passive"/>
+      <node ref="U10" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="VDD">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="IN+" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="U7" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(D20-K-Pad1)">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(U6-Pad5)">
+      <node ref="U6" pin="5" pintype="no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U6-Pad7)">
+      <node ref="U6" pin="7" pintype="no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U9-COM-Pad9)">
+      <node ref="U9" pin="9" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(U9-I6-Pad6)">
+      <node ref="U9" pin="6" pinfunction="I6" pintype="input"/>
+    </net>
+    <net code="94" name="unconnected-(U9-I7-Pad7)">
+      <node ref="U9" pin="7" pinfunction="I7" pintype="input"/>
+    </net>
+    <net code="95" name="unconnected-(U9-O6-Pad11)">
+      <node ref="U9" pin="11" pinfunction="O6" pintype="open_collector"/>
+    </net>
+    <net code="96" name="unconnected-(U9-O7-Pad10)">
+      <node ref="U9" pin="10" pinfunction="O7" pintype="open_collector"/>
+    </net>
+    <net code="97" name="unconnected-(U10-NC-Pad32)">
+      <node ref="U10" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U10-SCK{slash}CLK-Pad20)">
+      <node ref="U10" pin="20" pinfunction="SCK/CLK" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="unconnected-(U10-SCS{slash}CMD-Pad19)">
+      <node ref="U10" pin="19" pinfunction="SCS/CMD" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="unconnected-(U10-SDI{slash}SD1-Pad22)">
+      <node ref="U10" pin="22" pinfunction="SDI/SD1" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="unconnected-(U10-SDO{slash}SD0-Pad21)">
+      <node ref="U10" pin="21" pinfunction="SDO/SD0" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="unconnected-(U10-SENSOR_VN-Pad5)">
+      <node ref="U10" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="103" name="unconnected-(U10-SENSOR_VP-Pad4)">
+      <node ref="U10" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="104" name="unconnected-(U10-SHD{slash}SD2-Pad17)">
+      <node ref="U10" pin="17" pinfunction="SHD/SD2" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U10-SWP{slash}SD3-Pad18)">
+      <node ref="U10" pin="18" pinfunction="SWP/SD3" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
